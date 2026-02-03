@@ -5,13 +5,13 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-clawnch_protocol = "programs/clawnch-protocol/target/deploy/clawnch_protocol.so"
+clawnch_protocol = "7LkJPbRAuz6Nn7ZfxzmTk8iaL63AehGv3pTziboKx1LW"
 
 [programs.devnet]
-clawnch_protocol = "programs/clawnch-protocol/target/deploy/clawnch_protocol.so"
+clawnch_protocol = "7LkJPbRAuz6Nn7ZfxzmTk8iaL63AehGv3pTziboKx1LW"
 
 [programs.mainnet]
-clawnch_protocol = "programs/clawnch-protocol/target/deploy/clawnch_protocol.so"
+clawnch_protocol = "7LkJPbRAuz6Nn7ZfxzmTk8iaL63AehGv3pTziboKx1LW"
 
 [registry]
 url = "https://api.apr.dev"

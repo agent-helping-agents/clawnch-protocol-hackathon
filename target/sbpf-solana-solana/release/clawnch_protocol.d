@@ -1,0 +1,1 @@
+/tmp/clawnch-fork/target/sbpf-solana-solana/release/clawnch_protocol.so: /tmp/clawnch-fork/programs/clawnch-protocol/src/error.rs /tmp/clawnch-fork/programs/clawnch-protocol/src/lib.rs /tmp/clawnch-fork/programs/clawnch-protocol/src/state.rs

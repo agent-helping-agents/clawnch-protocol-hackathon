@@ -4,7 +4,7 @@
 use anchor_lang::prelude::*;
 
 // TODO: Generate real keypair with: solana-keygen grind --starts-with CLWN:1
-declare_id!("CLWN111111111111111111111111111111111111111");
+declare_id!("7LkJPbRAuz6Nn7ZfxzmTk8iaL63AehGv3pTziboKx1LW");
 
 pub mod error;
 pub mod state;

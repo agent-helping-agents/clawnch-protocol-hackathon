@@ -10,7 +10,7 @@ crate-type = ["cdylib", "lib"]
 path = "src/lib.rs"
 
 [dependencies]
-anchor-lang = "0.30.1"
+anchor-lang = "0.32.1"
 
 [features]
 default = []
